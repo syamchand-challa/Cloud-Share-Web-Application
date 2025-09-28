@@ -68,7 +68,11 @@ It allows users to **upload, manage, and securely share files** with subscriptio
 <img width="1332" height="620" alt="Screenshot 2025-09-28 110054Transaction" src="https://github.com/user-attachments/assets/9c3f249a-7f07-4844-af39-b9c8313c9efd" />
 
 
-⚡ Installation & Setup
+## ⚙️ Installation & Setup
+
+This section helps anyone set up and run the project locally with ease, ensuring reproducibility and showcasing full-stack expertise.
+
+---
 
 1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/cloud-share.git
