@@ -29,8 +29,8 @@ It allows users to **upload, manage, and securely share files** with subscriptio
 - **Backend:** Spring Boot, REST APIs  
 - **Database:** MySQL  
 - **Authentication:** Clerk (JWT)  
-- **Version Control:** Git & GitHub  
-- **Deployment:** Vercel (frontend), Railway / Heroku (backend)  
+- **Version Control:** Git & GitHub
+- 
 
  ## 📸 Project Screenshots & Demo
 
