@@ -32,4 +32,7 @@ It allows users to **upload, manage, and securely share files** with subscriptio
 - **Version Control:** Git & GitHub  
 - **Deployment:** Vercel (frontend), Railway / Heroku (backend)  
 
----
+ ## 📸 Project Screenshots & Demo
+
+## 🏠 Home Page 
+
