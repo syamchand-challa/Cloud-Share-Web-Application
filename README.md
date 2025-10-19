@@ -36,36 +36,37 @@ It allows users to **upload, manage, and securely share files** with subscriptio
 
 ## 🏠 Home Page 
 
-<img width="1128" height="632" alt="Screenshot 2025-09-28 105314Cloud Share 1" src="https://github.com/user-attachments/assets/e62d9046-5b69-4620-ae13-b66652b6c147" />
+<img width="1128" height="632" alt="Screenshot 2025-09-28 105314Cloud Share 1" src="https://github.com/user-attachments/assets/ca981989-314d-4118-b96f-def0023ad424" />
 
 
-<img width="1132" height="544" alt="Screenshot 2025-09-28 105424Cloud Share 2" src="https://github.com/user-attachments/assets/7c1efaad-b6de-467d-8b2d-ba22d17da29a" />
+<img width="1132" height="544" alt="Screenshot 2025-09-28 105424Cloud Share 2" src="https://github.com/user-attachments/assets/b853ed36-882e-449d-bc55-1c2a71367517" />
 
 
-<img width="1228" height="611" alt="Screenshot 2025-09-28 105513Cloud Share 3" src="https://github.com/user-attachments/assets/2efbe5ed-8cbb-4128-98bf-60bd558e01ea" />
+<img width="1228" height="611" alt="Screenshot 2025-09-28 105513Cloud Share 3" src="https://github.com/user-attachments/assets/8a566a2e-567e-4060-b0d6-c8f485886f16" />
 
-
-<img width="1319" height="618" alt="Screenshot 2025-09-28 105609Cloud Share 4" src="https://github.com/user-attachments/assets/4251e143-3a65-423c-b09c-da1232efabcc" />
 
 ### 📊 Dashboard 
 
-<img width="1329" height="622" alt="Screenshot 2025-09-28 105823Dashboard1" src="https://github.com/user-attachments/assets/b58d1702-a700-46c0-8379-a6b3d5dd5ef5" />
+<img width="1329" height="622" alt="Screenshot 2025-09-28 105823Dashboard1" src="https://github.com/user-attachments/assets/5cc6b4dd-6213-4b1b-9510-97cf7af14ed8" />
+
 
 ### 📤 Upload  
 
-<img width="1333" height="608" alt="Screenshot 2025-09-28 105916Upload2" src="https://github.com/user-attachments/assets/c45ad1e9-3e88-4c92-a8fc-7f877678e0a7" />
+<img width="1333" height="608" alt="Screenshot 2025-09-28 105916Upload2" src="https://github.com/user-attachments/assets/02b0c65a-6558-4959-bd22-2e507aaf6677" />
+
 
 ### 📂 My Files  
 
-<img width="1337" height="590" alt="Screenshot 2025-09-28 105945MyFiles" src="https://github.com/user-attachments/assets/20ca5be0-62e4-4341-a024-7bc31a02c0f7" />
+<img width="1337" height="590" alt="Screenshot 2025-09-28 105945MyFiles" src="https://github.com/user-attachments/assets/7335617f-7c1d-4189-bb6e-248f488ec6e2" />
+
 
 ### 💳 Subscription  
 
-<img width="1336" height="621" alt="Screenshot 2025-09-28 110019Subscription" src="https://github.com/user-attachments/assets/ca18083f-1440-41b1-b82f-72bd77cac79a" />
+<img width="1336" height="621" alt="Screenshot 2025-09-28 110019Subscription" src="https://github.com/user-attachments/assets/f70635aa-0028-48cf-a884-5ffde3c5d2ce" />
 
 ### 🧾 Transactions  
 
-<img width="1332" height="620" alt="Screenshot 2025-09-28 110054Transaction" src="https://github.com/user-attachments/assets/9c3f249a-7f07-4844-af39-b9c8313c9efd" />
+<img width="1332" height="620" alt="Screenshot 2025-09-28 110054Transaction" src="https://github.com/user-attachments/assets/bde3f267-47e1-4ae1-8401-a37d76f815dc" />
 
 
 ## ⚙️ Installation & Setup
