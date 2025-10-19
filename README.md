@@ -40,9 +40,10 @@ Cloud Share is a full-stack cloud-based file storage and sharing application dev
 - Easy setup with clear instructions
   
 
-  ## 🗂️ Project Structure
+ ## 🗂️ Project Structure
 
-  cloud-share/
+```bash
+cloud-share/
 │
 ├── cloud-share-web-app-frontend/     # React + Vite Frontend
 │   ├── src/
@@ -75,8 +76,6 @@ Cloud Share is a full-stack cloud-based file storage and sharing application dev
     ├── pom.xml                      # Maven dependencies
     ├── uploads/                     # Uploaded file storage
     └── target/                      # Build output
-
-
 
 
 
