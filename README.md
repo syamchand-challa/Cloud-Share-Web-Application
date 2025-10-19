@@ -31,7 +31,50 @@ Cloud Share is a full-stack cloud-based file storage and sharing application dev
 - **Database:** MySQL  
 - **Authentication:** Clerk (JWT)  
 - **Version Control:** Git & GitHub
-- 
+
+ ## ✨ Highlights
+- Full-stack implementation with modern tech stack
+- Secure file sharing with JWT-based authentication
+- Subscription & credit system for advanced features
+- Responsive UI built with Tailwind CSS
+- Easy setup with clear instructions
+
+  ## 🗂️ Project Structure
+
+  cloud-share/
+│
+├── cloud-share-web-app-frontend/     # React + Vite Frontend
+│   ├── src/
+│   │   ├── assets/                   # Images and icons
+│   │   ├── components/               # UI components
+│   │   ├── context/                  # Global state management
+│   │   ├── pages/                    # Application pages
+│   │   ├── util/                     # Utility/helper functions
+│   │   ├── App.jsx                   # Root React component
+│   │   ├── main.jsx                  # Entry point
+│   │   ├── index.css                 # Global styles
+│   │   └── .env                      # Environment variables
+│   ├── public/                       # Static assets
+│   ├── package.json                  # NPM dependencies
+│   └── vite.config.js                # Vite configuration
+│
+└── cloud-share-web-app-backend/      # Spring Boot Backend
+    ├── src/
+    │   ├── main/
+    │   │   ├── java/
+    │   │   │   └── cloud/fileshare/cloud_share_web_app_backend/
+    │   │   │       └── CloudShareWebAppBackendApplication.java  # Main Spring Boot App
+    │   │   ├── resources/
+    │   │   │   ├── static/          # Static resources (if any)
+    │   │   │   ├── templates/       # Thymeleaf or HTML templates
+    │   │   │   └── application.properties  # Backend configuration
+    │   ├── test/                    # Unit and integration tests
+    │
+    ├── Dockerfile                   # Containerization config
+    ├── pom.xml                      # Maven dependencies
+    ├── uploads/                     # Uploaded file storage
+    └── target/                      # Build output
+
 
  ## 📸 Project Screenshots & Demo
 
