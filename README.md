@@ -77,12 +77,6 @@ Cloud Share is a full-stack cloud-based file storage and sharing application dev
 <img width="1332" height="620" alt="Screenshot 2025-09-28 110054Transaction" src="https://github.com/user-attachments/assets/f7847ac3-2cba-4549-a767-a99b1d8860d0" />
 
 
-## ⚙️ Installation & Setup
-
-This section helps anyone set up and run the project locally with ease, ensuring reproducibility and showcasing full-stack expertise.
-
----
-
 
  ## 🗂️ Project Structure
 
@@ -122,6 +116,12 @@ cloud-share/
     └── target/                      # Build output
 
 
+
+## ⚙️ Installation & Setup
+
+This section helps anyone set up and run the project locally with ease, ensuring reproducibility and showcasing full-stack expertise.
+
+---
 
 1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/cloud-share.git
