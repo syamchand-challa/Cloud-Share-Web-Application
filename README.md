@@ -1,9 +1,9 @@
 # ☁️ Cloud Share – Next Generation File Storage & Sharing  
 
-A **Full Stack Cloud File Sharing Application** developed using **Spring Boot, React, MySQL, Tailwind CSS, and Clerk Authentication (JWT)**.  
-It allows users to **upload, manage, and securely share files** with subscription & credits system.  
+# Cloud Share – Full Stack File Sharing Application
 
----
+Cloud Share is a full-stack cloud-based file storage and sharing application developed using **Spring Boot**, **React**, **MySQL**, **Tailwind CSS**, and **Clerk Authentication (JWT)**. The platform allows users to securely upload, manage, and share files with ease, while also offering a subscription and credits-based system for accessing advanced features. Its architecture ensures both security and scalability, making it a practical solution for modern file management needs.
+
 
 ## ✨ Features  
 
