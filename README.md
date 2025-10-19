@@ -38,6 +38,7 @@ Cloud Share is a full-stack cloud-based file storage and sharing application dev
 - Subscription & credit system for advanced features
 - Responsive UI built with Tailwind CSS
 - Easy setup with clear instructions
+  
 
   ## 🗂️ Project Structure
 
@@ -74,6 +75,10 @@ Cloud Share is a full-stack cloud-based file storage and sharing application dev
     ├── pom.xml                      # Maven dependencies
     ├── uploads/                     # Uploaded file storage
     └── target/                      # Build output
+
+
+
+
 
 
  ## 📸 Project Screenshots & Demo
